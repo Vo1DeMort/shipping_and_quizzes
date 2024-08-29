@@ -1,0 +1,17 @@
+superuser
+  ye_yint
+  123456
+
+"username":"aungaung",
+"email":"aung123@gmai.com",
+"password":"aung12345"
+
+
+"username":"bobo",
+"email":"bobo123@gmai.com",
+"password":"bobo12345"
+
+
+todo
+  test the endpoints
+  add doc
